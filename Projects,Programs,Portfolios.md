@@ -8,4 +8,10 @@ For example, the implementation of a new customer relationship system may genera
 > _verb_ ENCOURAGE (B2) to encourage people to like, buy, use, do, or support something.    
 
 > **compliance** _noun_ the act of obeying an order, rule, or request  
-> - The company said that it had always acted **in** compliance **with** environmental laws.
+> - The company said that it had always acted **in** compliance **with** environmental laws.  
+
+> **delivery**  _noun_ OF PACKAGE ETC. (B1) the act of taking goods, letters, parcels, etc. to people's houses or places of work.  
+
+> **benchmark** _noun_ a level of quality that can be used as a standard when comparing other things.  
+
+> **budget** _noun_ (B2) a plan or show how much money a person or organization will earn and how much they will need or be able to spend.
