@@ -14,4 +14,7 @@ For example, the implementation of a new customer relationship system may genera
 
 > **benchmark** _noun_ a level of quality that can be used as a standard when comparing other things.  
 
-> **budget** _noun_ (B2) a plan or show how much money a person or organization will earn and how much they will need or be able to spend.
+> **budget** _noun_ (B2) a plan or show how much money a person or organization will earn and how much they will need or be able to spend.  
+
+Programs, on the other hand, are groups of related projects that are run as a group toward producing a common benefit. A project is content-specific, while a program focuses on the benefits. Developing a web application for ticket registration (air, travel, or rail) to generate revenue is an example of a project. Developing a group of functionalities or applications related to analytics and generating leads through marketing for the desired outcome of customer conversion might be a program (with the individual components of its projects).   
+
