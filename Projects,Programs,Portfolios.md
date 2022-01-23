@@ -18,5 +18,10 @@ For example, the implementation of a new customer relationship system may genera
 
 > **revenue** _noun_ (C1) the income that a government or company receives regularly.
 
-Programs, on the other hand, are groups of related projects that are run as a group toward producing a common benefit. A project is content-specific, while a program focuses on the benefits. Developing a web application for ticket registration (air, travel, or rail) to generate revenue is an example of a project. Developing a group of functionalities or applications related to analytics and generating leads through marketing for the desired outcome of customer conversion might be a program (with the individual components of its projects).   
+Programs, on the other hand, are groups of related projects that are run as a group toward producing a common benefit. A project is content-specific, while a program focuses on the benefits. Developing a web application for ticket registration (air, travel, or rail) to generate revenue is an example of a project. **Developing a group of functionalities or applications related to analytics and generating leads through marketing for the desired outcome of customer conversion might be a program** (with the individual components of its projects).    
+> **marketing** _noun_ JOB (B2) a job that involves encouraging people to buy a product or service.  
+> SHOPPING  
 
+> **outcome** _noun_ (C1) a result or effect of an action, situation, etc.  
+
+> Functionalities and applications related to analytics and generating leads.
