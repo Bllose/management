@@ -24,4 +24,4 @@ Programs, on the other hand, are groups of related projects that are run as a gr
 
 > **outcome** _noun_ (C1) a result or effect of an action, situation, etc.  
 
-> Functionalities and applications related to analytics and generating leads.
+> [Functionalities and applications related to analytics and generating leads.](https://hinative.com/questions/21057501?created_two_questions_tickets_added=true)
